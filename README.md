@@ -51,3 +51,40 @@
 ### Professional Summary:
 
 Computer Systems Engineering Student specializing in **Digital Design, FPGA-based RTL design, RISC-V Architecture, and Embedded Systems**. Experienced in designing hardware control units and exploring Machine Learning applications for intelligent hardware-software systems.
+
+
+### Education:
+
+<table width="100%">
+  <tr>
+    <!-- Left Logo (NED Emblem) -->
+    <td align="center" width="20%">
+      <a href="https://www.neduet.edu.pk/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/23/NEDUET_logo.png" width="90" alt="NEDUET Logo"/>
+      </a>
+    </td>
+
+    <!-- Center Details -->
+    <td align="center" width="60%">
+      <h3 align="center" style="margin: 0;">Bachelor of Engineering in Computer Systems Engineering</h3>
+      <br/>
+      <p align="center">
+        <a href="https://www.neduet.edu.pk/" target="_blank">
+          <b>NED University of Engineering & Technology</b>
+        </a> • Karachi
+      </p>
+      <p align="center">
+        <sub><b>2022 – 2026</b> | <b>Department:</b> Computer & Information Systems Engineering</sub>
+      </p>
+    </td>
+
+    <!-- Right Logo (NED Logo) -->
+    <td align="center" width="20%">
+      <a href="https://www.neduet.edu.pk/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/23/NEDUET_logo.png" width="90" alt="NED Logo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
