@@ -78,3 +78,48 @@ Computer Systems Engineering Student specializing in **Digital Design, FPGA-base
 </table>
 
 <br/>
+
+<h2 align="left">My Technical Stack</h2>
+
+<h3 align="left">1. Languages:</h3>
+
+<table align="left">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" alt="Embedded C" onerror="this.src='https://img.shields.io/badge/C-00599C?style=flat&logo=c'"/><br/>
+      <sub><b>Embedded C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" alt="Matlab"/><br/>
+      <sub><b>Matlab</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/AS-007ACC?style=flat-square&logoColor=white" width="40" height="40" alt="Assembly"/><br/>
+      <sub><b>Assembly</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/SV-00599C?style=flat-square&logo=IEEE&logoColor=white" width="40" height="40" alt="SystemVerilog"/><br/>
+      <sub><b>System Verilog</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/V-00599C?style=flat-square&logo=IEEE&logoColor=white" width="40" height="40" alt="Verilog"/><br/>
+      <sub><b>Verilog</b></sub>
+    </td>
+  </tr>
+</table>
