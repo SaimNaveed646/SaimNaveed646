@@ -7,20 +7,16 @@
 
 ### My Tools & Languages:
 
-<p align="left">
+<p align="center">
   <!-- Top Row: Languages, HDLs & Embedded Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="45" height="45" onerror="this.src='https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c'"/> &nbsp;
-  <img src="https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square&logo=IEEE&logoColor=white" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/RISC--V-000000?style=flat-square&logo=riscv&logoColor=white" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/Logisim-4B0082?style=flat-square" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/FPGA-FF6600?style=flat-square" height="35"/>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Bottom Row: AI, Web & Data Science Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> &nbsp;
@@ -34,8 +30,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 </p>
 
-<!-- Stats Badges Line (Image me Diye Gaye Badges Jaisa) -->
-<p align="left">
+<!-- Centered Stats Badges -->
+<p align="center">
+  <a href="https://github.com/SaimNaveed646">
+    <img src="https://img.shields.io/badge/PROFILE_SUMMARY-CLICK_HERE-900000?style=for-the-badge&logo=github" alt="Profile Summary" />
+  </a>
   <a href="https://github.com/SaimNaveed646">
     <img src="https://komarev.com/ghpvc/?username=SaimNaveed646&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
