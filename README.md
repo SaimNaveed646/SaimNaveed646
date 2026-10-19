@@ -55,12 +55,14 @@ Computer Systems Engineering Student specializing in **Digital Design, FPGA-base
 
 ### Education:
 
+<h2 align="left">Education:</h2>
+
 <table width="100%">
   <tr>
-    <!-- Left Logo (NED Emblem) -->
+    <!-- Left Logo -->
     <td align="center" width="20%">
       <a href="https://www.neduet.edu.pk/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/2/23/NEDUET_logo.png" width="90" alt="NEDUET Logo"/>
+        <img src="https://github.com/user-attachments/assets/700cdc36-4168-4750-a6c6-29a09ddaf30c" width="90" alt="NEDUET Logo"/>
       </a>
     </td>
 
@@ -74,14 +76,14 @@ Computer Systems Engineering Student specializing in **Digital Design, FPGA-base
         </a> • Karachi
       </p>
       <p align="center">
-        <sub><b>2022 – 2026</b> | <b>Department:</b> Computer & Information Systems Engineering</sub>
+        <sub><b>2023 – 2027</b> | <b>Department:</b> Computer & Information Systems Engineering</sub>
       </p>
     </td>
 
-    <!-- Right Logo (NED Logo) -->
+    <!-- Right Logo -->
     <td align="center" width="20%">
       <a href="https://www.neduet.edu.pk/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/2/23/NEDUET_logo.png" width="90" alt="NED Logo"/>
+        <img src="https://github.com/user-attachments/assets/700cdc36-4168-4750-a6c6-29a09ddaf30c" width="90" alt="NEDUET Logo"/>
       </a>
     </td>
   </tr>
