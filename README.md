@@ -74,11 +74,6 @@ Computer Systems Engineering Student specializing in **Digital Design, FPGA-base
         <sub><b>2023 – 2027</b> | <b>Department:</b> Computer & Information Systems Engineering</sub>
       </p>
     </td>
-    <td align="center" width="20%">
-      <a href="https://www.neduet.edu.pk/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/700cdc36-4168-4750-a6c6-29a09ddaf30c" width="90" alt="NEDUET Logo"/>
-      </a>
-    </td>
   </tr>
 </table>
 
